@@ -1,6 +1,8 @@
+#!/usr/bin/python3
+
 """
 SYNOPSIS
-    python3 efind.py
+    ./efind.py
 
 DESCRIPTION
     Count the number of words with and without one or more specified characters
