@@ -90,7 +90,7 @@ Enfin, exécuter la recherche avec le bouton *start*.
 ## Fabriqué avec
 
 - [Ubuntu](https://releases.ubuntu.com/) 18.04 LTS - Système d'exploitation
-- [Visual Studio Code](https://code.visualstudio.com/) 1.45.1 - Editeur de codes
+- [Visual Studio Code](https://code.visualstudio.com/) 1.45.1 - Editeur de texte
 - [Miniconda3](https://docs.conda.io/en/latest/miniconda.html) 4.8.2 - Gestionnaire de paquets
 
 ## Information complémentaire
