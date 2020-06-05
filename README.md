@@ -34,6 +34,10 @@ Malgré cette impressionnante contrainte d'écriture, Perec n'a eu besoin que d'
 
 A l'air des nouvelles technologies, eFind propose d'imiter ce processus de façon automatisée, rapide et reproductible.
 
+[^1]: https://associationgeorgesperec.fr/IMG/pdf/HERMES_SALCEDA.pdf
+[^2]: https://fr.wikipedia.org/wiki/Fr%C3%A9quence_d%27apparition_des_lettres_en_fran%C3%A7ais#cite_note-1
+[^3]: https://www.franceculture.fr/litterature/le-jour-sans-e
+
 ## Pour commencer
 
 ### Pré-requis
@@ -100,8 +104,3 @@ La liste de mots fournie provient du blog de [Chrisophe Pallier](http://www.pall
 ## Auteur
 
 - Sarah Bouzidi
-
-
-[^1]: https://associationgeorgesperec.fr/IMG/pdf/HERMES_SALCEDA.pdf
-[^2]: https://fr.wikipedia.org/wiki/Fr%C3%A9quence_d%27apparition_des_lettres_en_fran%C3%A7ais#cite_note-1
-[^3]: https://www.franceculture.fr/litterature/le-jour-sans-e
