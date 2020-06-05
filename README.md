@@ -63,7 +63,7 @@ chmod +x efind.py
 Pour lancer l'outil, la commande suivante doit être tapée dans le répertoire local où se trouve le script `efind.py`
 
 ```bash
-python3 efind.py
+./efind.py
 ```
 
 Une fois l'interface graphique apparue, dans la section *Required Arguments*, charger le fichier contenant la liste de mots à parcourir à l'aide du bouton *browse* et rentrer le(s) caractère(s) à rechercher.
