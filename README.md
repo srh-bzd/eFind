@@ -99,7 +99,7 @@ Enfin, exécuter la recherche avec le bouton *start*.
 
 ## Information complémentaire
 
-La liste de mots fournie provient du blog de [Chrisophe Pallier](http://www.pallier.org/liste-de-mots-francais.html). Cette liste a été choisie car elle semble la plus exhaustive, notamment parce qu'elle contient noms et adjectifs partant du féminin singulier (et non du masculin singulier) et verbes conjugués. La liste a été produite à partir du dictionnaire [Francais-Gutenberg](http://www.fifi.org/doc/ifrench-gut/fr/reference.pdf.gz).
+La liste de mots fournie provient du blog de [Christophe Pallier](http://www.pallier.org/liste-de-mots-francais.html). Cette liste a été choisie car elle semble la plus exhaustive, notamment parce qu'elle contient noms et adjectifs partant du féminin singulier (et non du masculin singulier) et verbes conjugués. La liste a été produite à partir du dictionnaire [Francais-Gutenberg](http://www.fifi.org/doc/ifrench-gut/fr/reference.pdf.gz).
 
 ## Auteur
 
